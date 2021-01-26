@@ -48,5 +48,6 @@ Modifying the LSB corresponding to ‘c’ gives
  changes in the index values (in the color-map table ) may lead to easily detectable pattern in the image
 
 **sample outputs**
+
 ![](imag1.png)
 ![](img2.png)
